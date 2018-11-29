@@ -2,7 +2,7 @@ import { darken } from 'polished';
 
 const brand = {
   primary: 'orange',
-  secondary: 'blue',
+  secondary: 'transparent',
 };
 
 const colors = {
@@ -27,10 +27,8 @@ const theme = {
   },
   container: {
     base: '10rem',
-    text: '55rem',
+    text: '80rem',
     position: 'absolute',
-
-    
   },
   spacer: {
     horizontal: '1rem',

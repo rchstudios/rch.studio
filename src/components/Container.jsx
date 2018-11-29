@@ -6,7 +6,7 @@ import styled, { css } from 'react-emotion';
 
 
 const Wrapper = styled.div`
-
+  
   margin: 0 auto;
   padding: 0 ${props => props.theme.spacer.horizontal};
 
@@ -16,6 +16,8 @@ const Wrapper = styled.div`
     text-decoration: none;
     color: ${props => props.theme.brand.primary};
   };
+
+  
   
   ${props =>
     props.type === 'text' &&
@@ -28,13 +30,17 @@ const Wrapper = styled.div`
         --x-height-multiplier: 0.35;
         
       }
+
+     
       
     `};
 `;
 
 const Container = ({ children, type, className }) => (
-  <Wrapper className={className} type={type}>
+  
+  <Wrapper className={className} type={type} >
     {children}
+
   </Wrapper>
 );
 

@@ -2,19 +2,18 @@
 title: "Tree"
 cover: "./thumbnail/thumb-zimarc.png"
 date: "2018-04-03"
-category: "Theme"
-size: "l"
-tag: "good,nice"
+category: "Display Stand"
+size: "s"
+tag: "digital fabrication, furniture, woodwork"
 ---
-## Description
+**Tree** is a design study for developing  series of  furniture  through algorithmic design with digital fabrication. We design and built sevell furniture for  [Dwell On Design](https://www.dwellondesign.com) show in Los Angeles  as well as [Zimarty](zimart.com) display stand  at [ICFF](https://10times.com/contemporary-furniture-fair) 
 
-![](./thumbnail/thumb-zimarc.png)
-Hi!
-I hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starter Portfolio Overview](https://gatsby-starter-portfolio.netlify.com/).
+<img  src="https://images.ctfassets.net/mgd90li3yfeu/3t0M1di7IcuACmwIiE0U0w/1d1bfdf02aa4674992f7a923d865b0bf/Tree-DwellOnDesign-01.svg">
 
 
-If you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/252253441?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-
-<img src="https://images.ctfassets.net/mgd90li3yfeu/6ACnlshBo4WmQqaA6aQims/40967a2e046b1dbcd36c4772a01c19f9/thumb-zimarc.svg">
+***
+***
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264006648?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
