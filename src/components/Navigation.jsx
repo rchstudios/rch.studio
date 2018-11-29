@@ -91,34 +91,28 @@ const Navigation = () => (
   <Wrapper>
     <Nav>
     <Link
-        to="/"
-        activeClassName={css`
-          ${active};
-        `}
-      >
-        Zimarc
-      </Link>
-      <Link
         to="/about"
         activeClassName={css`
           ${active};
         `}
       >
-        About
+        Maysam
       </Link>
-      <Link
-        to="/contact"
+    <Link
+        to="/"
         activeClassName={css`
           ${active};
         `}
       >
-        Contact
+        Portfolio
       </Link>
+    
+      
       
     </Nav>
     
     <SocialMedia>
-      <a href="https://www.instagram.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/maysssam" target="_blank" rel="noopener noreferrer">
         <FaInstagram />
       </a>
       <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
