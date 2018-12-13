@@ -1,18 +1,8 @@
-
-
-
-
-
-
-
-
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Header, Container, Layout } from 'components';
 import config from '../../config/website';
 import styled, { css } from 'react-emotion';
-
-
 
 import { FaInstagram, FaBehance, FaDribbble, FaGit, FaGithub, FaTwitter } from 'react-icons/fa';
 
@@ -39,29 +29,24 @@ const SocialMedia = styled.div`
 
 
 
-const Contacts = styled.div`
-  display: flex;
-  flex: 1;
-  justify-content: center;
-  
-`;
-
 
 const About = () => (
   <Layout>
-    
-    <Helmet title={`Contact | ${config.siteTitle}`} />
+    <Helmet title={`About | ${config.siteTitle}`} />
     <Header>
-    <h2 >Hi! I'm Maysam form LA , graduated from Columbia University, love architecture, technology and puppies.</h2>
-   
-
+      <>
+        
+      </>
     </Header>
-   
+    <Container type="text">
+    <h1 >Hi! </h1>
+					<p> 
+          I'm Maysam form LA , graduated from Columbia University, love architecture, technology and puppies.
 
-     
-    <SocialMedia>
-    
-      <a href="https://www.instagram.com/maysssam" target="_blank" rel="noopener noreferrer">
+					</p>
+
+      <SocialMedia>
+          <a href="https://www.instagram.com/maysssam" target="_blank" rel="noopener noreferrer">
         <FaInstagram />
       </a>
       <a href="https://www.behance.net/zimarc" target="_blank" rel="noopener noreferrer">
@@ -78,9 +63,9 @@ const About = () => (
       <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
         <FaTwitter />
       </a>
-    </SocialMedia>
- 
+      </SocialMedia>
 
+    </Container>
   </Layout>
 );
 

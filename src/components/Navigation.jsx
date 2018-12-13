@@ -104,15 +104,15 @@ const Navigation = () => (
           ${active};
         `}
       >
-        Portfolio
+        Works
       </Link>
+     
     
-      
       
     </Nav>
     
     <SocialMedia>
-      <a href="https://www.instagram.com/maysssam" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.instagram.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
         <FaInstagram />
       </a>
       <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">

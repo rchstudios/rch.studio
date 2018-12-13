@@ -3,7 +3,7 @@ import Typography from 'typography';
 const config = require('../../config/website');
 
 const typography = new Typography({
-  title: 'Maysam',
+  title: 'Zimarc',
   baseFontSize: config.baseFontSize,
   baseLineHeight: 1.5,
   headerFontFamily: [config.headerFontFamily, 'Dosis', 'sans-serif'],
@@ -13,7 +13,7 @@ const typography = new Typography({
   googleFonts: [
     {
       name: config.headerFontFamily,
-      styles: ['700'],
+      styles: ['300'],
     },
     {
       name: config.bodyFontFamily,
