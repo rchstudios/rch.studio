@@ -6,6 +6,11 @@ category: "Media"
 size: "m"
 tag: ""
 ---
+
+<img src="./img/sc.jpg" style="width:95%;height:85%;">
+
+&nbsp;
+
 <img src="./img/cube.gif" style="width:85%;height:85%;">
 
 &nbsp;
