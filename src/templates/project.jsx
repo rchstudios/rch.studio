@@ -64,22 +64,7 @@ const Project = ({ pageContext: { slug }, data: { markdownRemark: postNode } }) 
         <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
       </Container>
 
-      <WrapperBot style={{ backgroundColor: 2525 }}>
-        <InformationWrapper>
-        <InfoBlock>
-            <Top></Top>
-            <Bottom>{project.title}</Bottom>
-          </InfoBlock>
-          <InfoBlock>
-            <Top></Top>
-            <Bottom>{project.date}</Bottom>
-          </InfoBlock>
-          <InfoBlock>
-            <Top></Top>
-            <Bottom>{project.category}</Bottom>
-          </InfoBlock>
-        </InformationWrapper>
-      </WrapperBot>
+      
     </Layout>
   );
 };

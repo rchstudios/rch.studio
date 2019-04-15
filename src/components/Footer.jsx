@@ -13,8 +13,7 @@ const Wrapper = styled.footer`
 
 const Footer = () => (
   <Wrapper>
-    Copyright &copy; 2018.{' '}
-    <a href="https:/maysam.me">MAYSAM</a>.
+    
   </Wrapper>
 );
 

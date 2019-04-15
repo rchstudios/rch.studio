@@ -41,7 +41,11 @@ const About = () => (
     <Container type="text">
     <h1 >Hi! </h1>
 					<p> 
-          I'm Maysam form LA , graduated from Columbia University, love architecture, technology and puppies.
+           We are a Los Angeles based multi-disciplinary design firm, creating singular, integrated, and comprehensive solutions in architecture, landscape architecture, planning, interior design, branding, product, graphic, and environmental design.
+          Design is never without story. 
+It connects people to each other and the world around us.
+
+Together we work beyond boundaries to reveal, explore, and invent designs that amplify experiences.
 
 					</p>
 
@@ -60,9 +64,7 @@ const About = () => (
         <FaGithub />
       </a>
 
-      <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
-        <FaTwitter />
-      </a>
+     
       </SocialMedia>
 
     </Container>

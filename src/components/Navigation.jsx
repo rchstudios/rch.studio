@@ -90,14 +90,7 @@ const SocialMedia = styled.div`
 const Navigation = () => (
   <Wrapper>
     <Nav>
-    <Link
-        to="/about"
-        activeClassName={css`
-          ${active};
-        `}
-      >
-        Maysam
-      </Link>
+    
     <Link
         to="/"
         activeClassName={css`
@@ -111,21 +104,7 @@ const Navigation = () => (
       
     </Nav>
     
-    <SocialMedia>
-      <a href="https://www.instagram.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
-        <FaInstagram />
-      </a>
-      <a href="https://twitter.com/zimarcdotcom" target="_blank" rel="noopener noreferrer">
-        <FaTwitter />
-      </a>
-      <a href="https://dribbble.com/zimarc" target="_blank" rel="noopener noreferrer">
-        <FaDribbble />
-      </a>
-      
-      <a href="https://github.com/zimarc" target="_blank" rel="noopener noreferrer">
-        <FaGithub />
-      </a>
-    </SocialMedia>
+   
   </Wrapper>
 );
 
